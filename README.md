@@ -4,7 +4,7 @@
 
 This repository contains the data analysis pipeline, machine learning models, and strategic presentation developed for the IMI Big Data and AI Competition. The core objective was to build a robust detection model that minimizes financial loss while maintaining a frictionless user experience for legitimate customers.
 
-![Dashboard Preview](assets/your_dashboard_screenshot.jpg)
+![Dashboard Preview](asset_AI_powered.png)
 
 *Note: Due to data privacy and competition confidentiality, the original dataset of 61,000+ records has been removed. A `mock_data.zip` archive has been provided to demonstrate the schema and pipeline functionality without compromising proprietary information.*
 
